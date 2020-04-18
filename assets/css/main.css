@@ -1551,7 +1551,7 @@
 /* Basic */
 
 	body {
-		background: #fff;
+		background: url("images/Fondo1.png");
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -2463,7 +2463,7 @@
 /* Header */
 
 	#header {
-		background-color: blue;
+		background-color: black;
 		background-attachment: scroll,								fixed;
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
@@ -2506,7 +2506,7 @@
 		padding: 0 4em 6em 0;
 		position: fixed;
 		text-align: right;
-		width: 35%;
+		width: 30%;
 	}
 
 		#footer .icons {
