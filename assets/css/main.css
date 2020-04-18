@@ -2463,7 +2463,7 @@
 /* Header */
 
 	#header {
-		background-color: black;
+		background-color: gray;
 		background-attachment: scroll,								fixed;
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
@@ -2475,7 +2475,7 @@
 		position: fixed;
 		text-align: right;
 		top: 0;
-		width: 25%;
+		width: 30%;
 	}
 
 		#header strong, #header b {
